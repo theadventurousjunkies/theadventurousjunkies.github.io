@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://surajk95.github.io"
-baseurl: "/theadventurousjunkies"
+url: "https://theadventurousjunkies.github.io"
+baseurl: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://surajk95.github.io/theadventurousjunkies/gallery/"  
-  - JOURNAL: "https://surajk95.github.io/theadventurousjunkies/journal/"
-  - ABOUT: "https://surajk95.github.io/theadventurousjunkies/about/"
+  - GALLERY: "https://theadventurousjunkies.github.io/gallery/"  
+  - JOURNAL: "https://theadventurousjunkies.github.io/journal/"
+  - ABOUT: "https://theadventurousjunkies.github.io/about/"
 
 # All translation keys
 translations:
